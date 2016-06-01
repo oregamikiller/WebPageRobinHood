@@ -1,0 +1,22 @@
+{
+  "name": "webpagerobinhood",
+  "version": "1.0.0",
+  "description": "Just get want you want",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oregamikiller/WebPageRobinHood.git"
+  },
+  "author": "oregami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oregamikiller/WebPageRobinHood/issues"
+  },
+  "homepage": "https://github.com/oregamikiller/WebPageRobinHood#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
